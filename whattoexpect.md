@@ -3,7 +3,7 @@ title: What To Expect
 ---
 # In a Nutshell
 
-Better Than One meetups are laid back gatherings meant to connect and inspire technology workers in the nonprofit field.
+**Better Than One** meetups are laid back gatherings meant to connect and inspire technology workers in the nonprofit field.
 
 The only structure of these meetups are the topics you bring to share - the only agenda, to give you a chance to have your work seen and to connect with others in the same field. A brief welcome will begin the time, and a closing thank-you will be announced. Beyond that the time is yours to connect and learn.
 
