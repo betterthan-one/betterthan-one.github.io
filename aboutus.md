@@ -1,16 +1,17 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: About Us
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+## Who We Are
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+We are a small group of tech professionals who serve in nonprofits.
 
-What else do you need?
+- [Danny Summerlin](mailto:danny.summerlin@jstart.org), [Jumpstart](https://www.jstart.org) in Boston
+- More to come!
 
-### my history
+## Why We Gather
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+> If you want to go fast, go by alone; if you want to go far, go together.
+
+Too often a nonprofit misses out on big opportunities to make the most of available technology because the technical staff is just stretched too thin. We can support each other and offer insight since no one can be an expert at everything!

@@ -7,6 +7,7 @@ Too often nonprofits work with too little resources to hire more than one person
 
 # Come together, right now (or at a scheduled event later)
 
-To help remedy that, Better Than One is a meetup specifically intended to offer an unthreatening environment where you can bring whatever technical projects you are working on and get support and feedback from others in a similar position. During the meetup you are paired with another person matched for area of interest, and you each have half of the time to talk through any projects and details you would like support on. Then, you will take a turn offering the same support.
+To help remedy that, **Better Than One** is a meetup specifically intended to offer an unthreatening environment where you can bring whatever technical projects you are working on and get support and feedback from others in a similar position. During the meetup you are paired with another person matched for area of interest, and you each have half of the time to talk through any projects and details you would like support on. Then, you will take a turn offering the same support.
 
-<a href="/whattoexpect" class="btn">But what can I expect?</a> or <a href="/getinfo" class="btn">Get Info</a>
+<a href="/whattoexpect" class="btn btn-info btn-large">What can I expect?</a> or just <a href="/getinvolved" class="btn btn-success btn-large">Get Involved!</a>
+{: style="text-align:center;font-size:120%"}
